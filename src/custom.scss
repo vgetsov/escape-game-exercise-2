@@ -1,3 +1,10 @@
+@import '~bootstrap/scss/bootstrap';
+
 $enable-shadows: true;
 
-@import '~bootstrap/scss/bootstrap';
+.flex-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // text-align: center;
+}
