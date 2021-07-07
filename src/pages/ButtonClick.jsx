@@ -1,4 +1,4 @@
-import { Button } from 'bootstrap'
+import { Button } from 'react-bootstrap'
 import { Helmet } from 'react-helmet-async'
 
 export const ButtonClick = () => {

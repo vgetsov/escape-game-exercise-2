@@ -1,5 +1,4 @@
-import { Button } from 'bootstrap'
-import { Form } from 'react-bootstrap'
+import { Button, Form } from 'react-bootstrap'
 import { Helmet } from 'react-helmet-async'
 
 export const FormExample = () => {
